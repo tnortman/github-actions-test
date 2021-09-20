@@ -1,0 +1,28 @@
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.singleQuote": true,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 100,
+	"prettier.tabWidth": 4,
+	"[yaml]": {
+		"editor.formatOnSave": false,
+		"editor.defaultFormatter": "redhat.vscode-yaml",
+		"editor.detectIndentation": false,
+		"editor.tabSize": 2
+	},
+	"launchdarkly.project": "heartland-restaurant",
+	"launchdarkly.env": "test",
+	"debug.allowBreakpointsEverywhere": true
+}
